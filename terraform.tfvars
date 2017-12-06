@@ -1,0 +1,5 @@
+vsphere_vcenter = "apvcenter.tv2asa.no"
+vsphere_user = "terraform@apvcenter.tv2asa.no"
+vsphere_password = "Tr571@g712XK"
+vsphere_datacenter = "TV2"
+vsphere_cluster = "BGO"
